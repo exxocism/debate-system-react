@@ -1,0 +1,15 @@
+{
+  "name": "debate-system-server",
+  "version": "1.0.0",
+  "description": "a server to manage debate system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CoolGuy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.4"
+  }
+}
